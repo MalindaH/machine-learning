@@ -1,4 +1,4 @@
-Machine learning projects with writeups.
+Machine learning projects: codes with writeups.
 
 ## Project 1:
 Correlation between symptom search trends and hospitalization cases for COVID-19.
